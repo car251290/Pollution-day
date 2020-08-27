@@ -1,16 +1,17 @@
 # Pollution-day
-see the pollution of your city, base on weather condition.
+watch out the pollution of your city, base on weather conditions.
 
-Air pollution is a burning issue facing our planet today. Rapid industrialization and urbanization has made the problem extremely difficult to contain. 
+Air pollution is a burning issue facing our planet today. Rapid industrialization and urbanization have made the problem extremely difficult to contain. 
+
 Cities around the world are witnessing rising levels of air contamination, with Beijing, Mexico and California recording some of the worst figures in recent years.
 
-Air pollution has dire implications on human health and well-being. It affects all the life of the planet, and also disrupts the clima change. we have only few year before something leaving it beyond repair. 
+Air pollution has dire implications for human health and well-being. It affects all the life of the planet and also disrupts the climate change. we have only a few years before something leaving it beyond repair. 
 This calls for an urgent need to curb air pollution.
 
 There are various things we can do to eliminate the causes and minimize the effects of air pollution. 
-There is a macro and a micro level to dealing with pollution. While the government and the private sector need to rethink policies for controlling air pollution on a broader scale, we as citizens can fight air pollution in our homes and offices by installing air quality monitors and air purification devices.
+There are a macro and micro level for dealing with pollution. While the government and the private sector need to rethink policies for controlling air pollution on a broader scale, we as citizens can fight air pollution in our homes and offices by installing air quality monitors and air purification devices.
 
-Also recycling and using less the car planting trees will help us to reduce the pollution in the word!
+Also recycling and using fewer car planting trees will help us to reduce pollution in the world!
 
 # Using the World Air Quality
 
